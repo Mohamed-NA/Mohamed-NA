@@ -1,6 +1,18 @@
+<h1 align="center">hey there 👋</h1>
+
+###
+
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">👋 Hi, I'm Mohamed Nasser from Egypt.  <br><br>- 🔭 I’m working as a ML Engineer, currently building projects in AI & Data Analytics.<br><br>- 📚 I'm currently learning Machine Learning, Deep Learning, and AI tools like Hugging Face & LangChain.<br><br>- ⚡ In my free time, I explore robotics, work on automation projects, and enjoy fitness & self-development.</p>
 
 ###
 
@@ -12,24 +24,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
   </a>
 </div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Mohamed-NA.Mohamed-NA&"  />
-</div>
-
-###
-
-<h1 align="center">hey there 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">👋 Hi, I'm Mohamed Nasser from Egypt.  <br><br>- 🔭 I’m working as a ML Engineer, currently building projects in AI & Data Analytics.<br><br>- 📚 I'm currently learning Machine Learning, Deep Learning, and AI tools like Hugging Face & LangChain.<br><br>- ⚡ In my free time, I explore robotics, work on automation projects, and enjoy fitness & self-development.</p>
 
 ###
 
