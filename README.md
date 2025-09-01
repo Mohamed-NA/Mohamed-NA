@@ -20,9 +20,10 @@
   <a href="https://www.linkedin.com/in/mohamed-nasser-ahmed/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="mohamednasser2000@outlook.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
-  </a>
+  <a href="mailto:mohamed.nasser@outlook.com">
+  <img src="https://img.icons8.com/color/48/microsoft-outlook-2019.png" alt="Outlook"/>
+</a>
+
 </div>
 
 ###
