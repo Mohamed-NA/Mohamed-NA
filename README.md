@@ -12,7 +12,25 @@
 
 ###
 
-<p align="left">👋 Hi, I'm Mohamed Nasser from Egypt.  <br><br>- 🔭 I’m working as a ML Engineer, currently building projects in AI & Data Analytics.<br><br>- 📚 I'm currently learning Machine Learning, Deep Learning, and AI tools like Hugging Face & LangChain.<br><br>- ⚡ In my free time, I explore robotics, work on automation projects, and enjoy fitness & self-development.</p>
+# Mohamed Nasser
+
+Engineering Lead and hands-on engineer building production AI, computer vision, and automation systems.
+
+I lead a small engineering pod at **TJM Labs**, where I own client-facing automation end-to-end and author the shared frameworks and observability standards the wider engineering org builds on. My work sits where machine learning meets systems that have to be correct without a human watching.
+
+**What I work on**
+- Production LLM systems: multi-provider fallback, caching, schema-validated output, evaluation and regression tracking
+- Computer vision and OCR pipelines for degraded real-world inputs, OpenCV, template matching, handwriting OCR, vision-language models
+- Instrumentation and observability: OpenTelemetry, structured event schemas, dashboards and alerting for unattended systems
+- Platform work: framework templates and shared libraries other teams build on
+
+**Background**
+
+BEng Mechatronics. Robotics before software: ROS 2, Nav2, SLAM, and real LiDAR and camera hardware on a rover prototype and an autonomous ground vehicle. Still where my interests point.
+
+---
+
+📍 Cairo, Egypt
 
 ###
 
@@ -20,7 +38,7 @@
   <a href="https://www.linkedin.com/in/mohamed-nasser-ahmed/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="mailto:mohamed.nasser@outlook.com">
+  <a href="mailto:mohamednasser2000@outlook.com">
   <img src="https://img.icons8.com/color/48/microsoft-outlook-2019.png" alt="Outlook"/>
 </a>
 
